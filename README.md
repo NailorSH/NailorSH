@@ -7,7 +7,8 @@
 - 👀 I’m interested in ML and AI
 
 ### My skills
-![Kotlin](https://img.shields.io/badge/-Jetpack%20Compose-333333?style=for-the-badge&logo=Android&logoColor=origin)
+![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=for-the-badge&logo=Kotlin&logoColor=origin)
+![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-333333?style=for-the-badge&logo=Android&logoColor=origin)
 
 <!--
 Here are some ideas to get you started:
