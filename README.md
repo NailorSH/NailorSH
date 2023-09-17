@@ -2,12 +2,12 @@
 <h3 align="center">Android developer and BMSTU student</h3>
 
 ## 🙋‍♂️ About Me
-- 🔭 I’m currently working on building my **marketplace**
+- 🔭 I’m currently working on **building my own marketplace**
 - ✨ I’m currently exploring mobile development
 - 👀 I’m interested in ML and AI
 
 ### My skills
-
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=Kotlin&logoColor=white)
 
 <!--
 Here are some ideas to get you started:
