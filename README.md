@@ -6,10 +6,11 @@
 - ✨ I’m currently exploring mobile development
 - 👀 I’m interested in ML and AI
 
-### My skills
+## My skills
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=for-the-badge&logo=Kotlin&logoColor=origin)
-![Java](https://img.shields.io/badge/-Java-333333?style=for-the-badge&logo=Java&logoColor=origin)
-![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-333333?style=for-the-badge&logo=Android&logoColor=origin)
+![Java](https://img.shields.io/badge/-Java-333333?style=for-the-badge&logo=Intellij%20IDEA&logoColor=origin)
+![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-333333?style=for-the-badge&logo=jetpackcompose&logoColor=origin)
+
 
 <!--
 Here are some ideas to get you started:
