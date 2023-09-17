@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nail</h1>
+<h3 align="center">Android developer and BMSTU student</h3>
+
+
 
 <!--
 **NailorSH/NailorSH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
