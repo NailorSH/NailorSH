@@ -1,11 +1,15 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nail</h1>
 <h3 align="center">Android developer and BMSTU student</h3>
 
+## 🙋‍♂️ About Me
+- 🔭 I’m currently working on building my **marketplace**
+- ✨ I’m currently exploring mobile development
+- 👀 I’m interested in ML and AI
+
+### My skills
 
 
 <!--
-**NailorSH/NailorSH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
